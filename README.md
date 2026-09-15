@@ -31,3 +31,4 @@ and not only in steps.
 - Amari, *Natural Gradient Works Efficiently in Learning*, 1998
 - Martens, *New Insights and Perspectives on the Natural Gradient Method*, 2014
 - Martens & Grosse, *Optimizing Neural Networks with K-FAC*, 2015
+- Dangel et al., *Kronecker-factored Approximate Curvature (KFAC) From Scratch*, 2025
